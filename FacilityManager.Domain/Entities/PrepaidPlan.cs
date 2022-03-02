@@ -1,5 +1,6 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace FacilityManager.Domain.Entities
 {
@@ -19,5 +20,10 @@ namespace FacilityManager.Domain.Entities
         public decimal Cost { get; set; }
 
         public DateTime Created { get; set; }
+
+        public int? CreatedById { get; set; }
+
+        [ForeignKey("CreatedById")]
+        public virtual StaffMember CreatedBy { get; set; }
     }
 }
