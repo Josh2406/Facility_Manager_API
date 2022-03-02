@@ -13,9 +13,9 @@ namespace FacilityManager.Domain.Entities
 
         [Required, StringLength(150)]
         public string Description { get; set; }
-
+        
         [StringLength(50)]
-        public string IconName { get; set; }
+        public string CategoryIcon { get; set; }
 
         public int? CreatedById { get; set; }
 

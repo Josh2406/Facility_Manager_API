@@ -3,15 +3,20 @@ using System.ComponentModel.DataAnnotations;
 
 namespace FacilityManager.Domain.Entities
 {
-    public class RequestMode
+    public class PrepaidPlan
     {
         public int Id { get; set; }
 
         [Required, StringLength(50)]
-        public string Mode { get; set; }
+        public string Plan { get; set; }
 
-        [StringLength(100)]
+        [Required, StringLength(250)]
         public string Description { get; set; }
+
+        [StringLength(50)]
+        public string PlanIcon { get; set; }
+
+        public decimal Cost { get; set; }
 
         public DateTime Created { get; set; }
     }

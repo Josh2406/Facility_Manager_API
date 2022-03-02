@@ -1,6 +1,6 @@
 ﻿namespace FacilityManager.Domain.Entities
 {
-    internal class RequestLocation
+    public class RequestLocation
     {
     }
 }

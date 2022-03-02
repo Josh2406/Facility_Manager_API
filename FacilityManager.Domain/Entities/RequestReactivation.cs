@@ -4,7 +4,7 @@ using System.Text;
 
 namespace FacilityManager.Domain.Entities
 {
-    internal class RequestReactivation
+    public class RequestReactivation
     {
     }
 }
