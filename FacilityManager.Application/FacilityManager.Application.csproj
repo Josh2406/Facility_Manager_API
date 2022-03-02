@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="DTOs\Account\Response\" />
+    <Folder Include="DTOs\Account\Request\" />
+    <Folder Include="DTOs\Login\Request\" />
+    <Folder Include="DTOs\Material\" />
+    <Folder Include="DTOs\Service\Response\" />
+    <Folder Include="DTOs\Service\Request\" />
+    <Folder Include="DTOs\Subscription\Response\" />
+    <Folder Include="DTOs\Subscription\Request\" />
+    <Folder Include="Constants\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FacilityManager.Domain\FacilityManager.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

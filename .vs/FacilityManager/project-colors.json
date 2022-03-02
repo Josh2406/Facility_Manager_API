@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "01e1ec14-c4e0-4f76-8823-30242398c76d": {
+      "ProjectGuid": "01e1ec14-c4e0-4f76-8823-30242398c76d",
+      "DisplayName": "FacilityManager",
+      "ColorIndex": 0
+    },
+    "5d0404a9-8517-4ac2-9506-231f4768dbf1": {
+      "ProjectGuid": "5d0404a9-8517-4ac2-9506-231f4768dbf1",
+      "DisplayName": "FacilityManager.Domain",
+      "ColorIndex": 1
+    },
+    "08cb6478-cb99-49fb-a267-5131e3f92ed5": {
+      "ProjectGuid": "08cb6478-cb99-49fb-a267-5131e3f92ed5",
+      "DisplayName": "FacilityManager.Application",
+      "ColorIndex": 2
+    },
+    "64bfe06b-89ba-4660-b820-65ac41c7d687": {
+      "ProjectGuid": "64bfe06b-89ba-4660-b820-65ac41c7d687",
+      "DisplayName": "FacilityManager.Infrastructure.Persistence",
+      "ColorIndex": 3
+    },
+    "65f0b28e-1fe7-4e03-9343-af9e289982c5": {
+      "ProjectGuid": "65f0b28e-1fe7-4e03-9343-af9e289982c5",
+      "DisplayName": "FacilityManager.Infrastructure.Shared",
+      "ColorIndex": 4
+    },
+    "19cb05a4-1b8a-4f82-bbdd-4d32d2e23213": {
+      "ProjectGuid": "19cb05a4-1b8a-4f82-bbdd-4d32d2e23213",
+      "DisplayName": "FacilityManager.API",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "1a369f9e-00a0-4a28-81e3-1208b101987f": {
+      "ProjectGuid": "1a369f9e-00a0-4a28-81e3-1208b101987f",
+      "DisplayName": "FacilityManager.Service",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

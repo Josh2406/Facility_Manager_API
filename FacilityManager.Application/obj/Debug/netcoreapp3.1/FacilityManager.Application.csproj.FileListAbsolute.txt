@@ -1,0 +1,13 @@
+C:\Users\Joshua.Ajibade\source\repos\FacilityManager\FacilityManager.Application\bin\Debug\netcoreapp3.1\FacilityManager.Application.deps.json
+C:\Users\Joshua.Ajibade\source\repos\FacilityManager\FacilityManager.Application\bin\Debug\netcoreapp3.1\FacilityManager.Application.dll
+C:\Users\Joshua.Ajibade\source\repos\FacilityManager\FacilityManager.Application\bin\Debug\netcoreapp3.1\FacilityManager.Application.pdb
+C:\Users\Joshua.Ajibade\source\repos\FacilityManager\FacilityManager.Application\bin\Debug\netcoreapp3.1\FacilityManager.Domain.dll
+C:\Users\Joshua.Ajibade\source\repos\FacilityManager\FacilityManager.Application\bin\Debug\netcoreapp3.1\FacilityManager.Domain.pdb
+C:\Users\Joshua.Ajibade\source\repos\FacilityManager\FacilityManager.Application\obj\Debug\netcoreapp3.1\FacilityManager.Application.csproj.AssemblyReference.cache
+C:\Users\Joshua.Ajibade\source\repos\FacilityManager\FacilityManager.Application\obj\Debug\netcoreapp3.1\FacilityManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joshua.Ajibade\source\repos\FacilityManager\FacilityManager.Application\obj\Debug\netcoreapp3.1\FacilityManager.Application.AssemblyInfoInputs.cache
+C:\Users\Joshua.Ajibade\source\repos\FacilityManager\FacilityManager.Application\obj\Debug\netcoreapp3.1\FacilityManager.Application.AssemblyInfo.cs
+C:\Users\Joshua.Ajibade\source\repos\FacilityManager\FacilityManager.Application\obj\Debug\netcoreapp3.1\FacilityManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\Joshua.Ajibade\source\repos\FacilityManager\FacilityManager.Application\obj\Debug\netcoreapp3.1\FacilityManager.Application.csproj.CopyComplete
+C:\Users\Joshua.Ajibade\source\repos\FacilityManager\FacilityManager.Application\obj\Debug\netcoreapp3.1\FacilityManager.Application.dll
+C:\Users\Joshua.Ajibade\source\repos\FacilityManager\FacilityManager.Application\obj\Debug\netcoreapp3.1\FacilityManager.Application.pdb
